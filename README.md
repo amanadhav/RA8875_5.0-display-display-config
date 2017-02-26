@@ -12,6 +12,8 @@ Special Thanks to Melvin Wang our CEO :)
 
 For more information about our product please visit : www.foodspan.ca
 
+![Screenshot](model.png)
+
 
 
 
