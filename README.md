@@ -14,4 +14,4 @@ For more information about our product please visit : www.foodspan.ca
 
 ![Screenshot](model.png)
 
-received_363780517354610.jpeg)
+![Screenshot](received_363780517354610.jpeg)
