@@ -14,4 +14,5 @@ For more information about our product please visit : www.foodspan.ca
 
 ![Screenshot](model.png)
 
+## We are still in prototyping! Check out our newest prototype!
 ![Screenshot](received_363780517354610.jpeg)
