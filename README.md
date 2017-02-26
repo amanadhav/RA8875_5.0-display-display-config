@@ -10,5 +10,8 @@ In the display.io file the images were converted to a byte array which is an uns
 
 Special Thanks to Melvin Wang our CEO :)
 
-For more information please visit : www.foodspan.ca
+For more information about our product please visit : www.foodspan.ca
+
+https://foodspan.ca/img/model.
+
 
